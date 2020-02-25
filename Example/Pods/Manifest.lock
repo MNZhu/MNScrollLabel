@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - MNScrollLabel (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - MNScrollLabel (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  MNScrollLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  MNScrollLabel: 9001dad313a92d427fcc3de3fbf7d271808b4af4
+
+PODFILE CHECKSUM: 13e0a86a355673406f26f4b55c53a18f7ed339db
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,22 @@
+{
+  "name": "MNScrollLabel",
+  "version": "0.1.0",
+  "summary": "A short description of MNScrollLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/771360846@qq.com/MNScrollLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "771360846@qq.com": "jacknan5425@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/771360846@qq.com/MNScrollLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MNScrollLabel/Classes/**/*"
+}

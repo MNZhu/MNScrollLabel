@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MNScrollLabel'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MNScrollLabel.'
+  s.summary          = '继承UILabel的跑马灯'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/771360846@qq.com/MNScrollLabel'
+  s.homepage         = 'https://github.com/MNZhu/MNScrollLabel'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '771360846@qq.com' => 'jacknan5425@gmail.com' }
