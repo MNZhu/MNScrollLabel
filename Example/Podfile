@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MNScrollLabel_Example' do
+  pod 'MNScrollLabel', :path => '../'
+
+  target 'MNScrollLabel_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
